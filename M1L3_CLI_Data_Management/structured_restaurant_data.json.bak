@@ -1,0 +1,103 @@
+[
+    {
+        "name": "new place 1",
+        "location": "",
+        "type": "greek restaurant",
+        "food_style": "",
+        "rating": 4.8,
+        "price_range": 2,
+        "signatures": [],
+        "vibe": "",
+        "environment": "",
+        "shortcomings": [],
+        "itemId": 1000001
+    },
+    {
+        "name": "new italia place",
+        "location": "",
+        "type": "",
+        "food_style": "",
+        "rating": 4.8,
+        "price_range": 3,
+        "signatures": [
+            "pizza",
+            "mozzarella"
+        ],
+        "vibe": "",
+        "environment": "",
+        "shortcomings": [],
+        "itemId": 1000002
+    },
+    {
+        "name": "new Rome place",
+        "location": "",
+        "type": "sicily restaurant",
+        "food_style": "pizza and mozzarella",
+        "rating": 4.8,
+        "price_range": 3,
+        "signatures": [
+            "pizza",
+            "mozzarella"
+        ],
+        "vibe": "",
+        "environment": "",
+        "shortcomings": [],
+        "itemId": 1000003
+    },
+    {
+        "name": "new best place",
+        "location": "",
+        "type": "",
+        "food_style": "",
+        "rating": 4.7,
+        "price_range": 1,
+        "signatures": [
+            "chicken and mushroom soup"
+        ],
+        "vibe": "",
+        "environment": "",
+        "shortcomings": [],
+        "itemId": 1000004
+    },
+    {
+        "name": "new world",
+        "location": "",
+        "type": "",
+        "food_style": "",
+        "rating": null,
+        "price_range": null,
+        "signatures": [],
+        "vibe": null,
+        "environment": "",
+        "shortcomings": [],
+        "itemId": 1000005
+    },
+    {
+        "name": "Nobu Santa Monica",
+        "location": "Santa Monica",
+        "type": "sushi restaurant",
+        "food_style": "Japanese seafood specialties",
+        "rating": 4.4,
+        "price_range": 2,
+        "signature_dishes": [
+            "yellowtail sashimi",
+            "black cod miso"
+        ],
+        "vibe": "upscale",
+        "environment": "upscale",
+        "itemId": 1000006
+    },
+    {
+        "name": "",
+        "location": "",
+        "type": "",
+        "food_style": "",
+        "rating": null,
+        "price_range": null,
+        "signatures": [],
+        "vibe": null,
+        "environment": "",
+        "shortcomings": [],
+        "itemId": 1000007
+    }
+]
