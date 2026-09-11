@@ -1,5 +1,5 @@
 # RAG and Agentic AI Capstone Project
-### This project is for completion of **IBM RAG and Agentic AI Professional Certificate** program on Coursera
+### This project is for completion of "IBM RAG and Agentic AI Professional Certificate" program on Coursera
 
 The aim of the project is to build a complete, production-style generative AI system that integrates structured data processing, multimodal retrieval, multi-agent orchestration, and secure tool execution. It includes:
 * transforming unstructured restaurant text and customer review images into structured JSON data and developing an interface to manage and update the knowledge base.
