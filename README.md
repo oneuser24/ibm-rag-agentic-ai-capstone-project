@@ -20,3 +20,6 @@ The aim of the project is to build a complete, production-style generative AI sy
 * **Jupyter** Notebooks (for experimenting and running Python-based labs)
 * **Git/GitHub** (for version control and managing project artifacts)
 * **JSON** (for storing data in a coherent query-friendly format with a schema suitable for indexing and search)
+
+### File names
+Project lab file names start with a corresponding module number __M#__ and a lab number __L#__.
